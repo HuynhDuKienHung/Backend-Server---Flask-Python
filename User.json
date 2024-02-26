@@ -1,0 +1,116 @@
+[
+    {
+        "age": "h",
+        "Blood_Pressure_and_Heart_Rate": {
+            "Huyet ap tam truong": "88.00",
+            "Huyet ap tam thu": "65.00",
+            "Nhip tim": "94.00"
+        },
+        "bmi": "heloofdh",
+        "heart_disease": "hello1",
+        "smoking_status": "uryt",
+        "residence": "hello 5",
+        "full_name": "12345",
+        "gender": "Nam",
+        "hypertension": "12",
+        "avg_glucose_level": "hello345",
+        "work_type": "hello4",
+        "marrital_status": "hello3"
+    },
+    {
+        "age": "1001",
+        "bmi": "30",
+        "heart_disease": "kh\u00f4ng",
+        "smoking_status": "kh\u00f4ng h\u00fat thu\u1ed1c",
+        "residence": "TPHCM",
+        "full_name": "Hu\u1ef3nh Du Ki\u1ebfn H\u00f9ng",
+        "gender": "Nam",
+        "hypertension": "kh\u00f4ng",
+        "avg_glucose_level": "90",
+        "work_type": "Sinh Vi\u00ean",
+        "marrital_status": "kh\u00f4ng"
+    },
+    {
+        "age": "80",
+        "bmi": "24.5",
+        "heart_disease": "1",
+        "smoking_status": "never smoked",
+        "residence": "Urban",
+        "full_name": "Kien Hung",
+        "gender": "Male",
+        "hypertension": "0",
+        "avg_glucose_level": "60.84",
+        "work_type": "Private",
+        "marrital_status": "Yes"
+    },
+    {
+        "age": "22",
+        "bmi": "32",
+        "heart_disease": "kh\u00f4ng",
+        "smoking_status": "kh\u00f4ng h\u00fat thu\u1ed1c",
+        "residence": "TPHCM",
+        "full_name": "Hu\u1ef3nh Du Ki\u1ebfn H\u00f9ng ",
+        "gender": "Nam",
+        "hypertension": "kh\u00f4ng",
+        "avg_glucose_level": "100",
+        "work_type": "Sinh vien",
+        "marrital_status": "kh\u00f4ng"
+    },
+    {
+        "age": "21",
+        "Blood_Pressure_and_Heart_Rate": {
+            "Huyet ap tam truong": "64.00",
+            "Huyet ap tam thu": "71.00",
+            "Nhip tim": "41.00"
+        },
+        "bmi": "40",
+        "heart_disease": "1",
+        "smoking_status": "chua tung hut",
+        "residence": "DN",
+        "full_name": "phuc_du",
+        "gender": "Male",
+        "hypertension": "0",
+        "avg_glucose_level": "89",
+        "work_type": "Sinh vien",
+        "marrital_status": "Yes"
+    },
+    {
+        "age": "",
+        "bmi": "",
+        "heart_disease": "",
+        "smoking_status": "",
+        "residence": "",
+        "full_name": "",
+        "gender": "",
+        "hypertension": "",
+        "avg_glucose_level": "",
+        "work_type": "",
+        "marrital_status": ""
+    },
+    {
+        "age": "",
+        "bmi": "",
+        "heart_disease": "",
+        "smoking_status": "",
+        "residence": "",
+        "full_name": "",
+        "gender": "",
+        "hypertension": "",
+        "avg_glucose_level": "",
+        "work_type": "",
+        "marrital_status": ""
+    },
+    {
+        "age": "23",
+        "bmi": "30",
+        "heart_disease": "0",
+        "smoking_status": "never smokes",
+        "residence": "Rural",
+        "full_name": "hung",
+        "gender": "Female",
+        "hypertension": "0",
+        "avg_glucose_level": "110",
+        "work_type": "children",
+        "marrital_status": "Yes"
+    }
+]
